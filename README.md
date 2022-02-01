@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning C++, C#, python and probably js pretty soon (maybe)
 - 📫 How to reach me 
   * discord -> vtpyxwxvyh (DOndola) 
+  * Twitter (@iamaura27)
+  * No other social media
