@@ -10,3 +10,6 @@
    * [ ] C++
    * [ ] Python
    * [ ] SQL
+1. ## Currently working on 
+   + [A javascript game with canvas](https://github.com/auradvin/RAOv-JS-game)
+   + [A godot project for school](https://github.com/auradvin/MOAFB)
