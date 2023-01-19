@@ -6,7 +6,8 @@
    - ⌚ Learning time managment
 1. ## Contact
    - 🐱‍👤discord `@aura#9199`
-   - 🤸‍♂️open github issue
+   - 🤸‍♂️open a github issue
+   - 🐦 Tell your local pigeon to bring me thy letter
 1. ## Knowledge:
    * [ ] JavaScript
    * [ ] C/C++
