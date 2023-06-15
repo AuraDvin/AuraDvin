@@ -5,7 +5,7 @@
    - 👀 I’m interested in being a *game dev*
    - ⌚ Learning time managment
 1. ## Contact
-   - 🐱‍👤discord `@aura#9199`
+   - 🐱‍👤discord `@enchantedaura#0`
    - 🤸‍♂️open a github issue
    - 🐦 Tell your local pigeon to bring me thy letter
 1. ## Knowledge:
@@ -16,5 +16,5 @@
    * [ ] social skills
    * [x] how to use notepad
 1. ## Currently working on 
-   + [A javascript game with canvas](https://github.com/auradvin/RAOv-JS-game)
    + [A godot project for school](https://github.com/auradvin/MOAFB)
+   + other private projects maybe, maybe not
