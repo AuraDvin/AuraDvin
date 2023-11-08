@@ -1,19 +1,19 @@
-1. # About me
-   - 👋 Hi, I’m `@AuraDvin`
+# About me
+   - 👋 Hi, I’m `@AuraDvin`, also go by Aura
    - 🤓 University student
    - 🗝 age: 19
    - 👀 I’m interested in being a "*game dev*"
    - ⌚ Learning time managment
-1. ## Contact
-   - 🐱‍👤discord `@enchantedaura#0`
+## Contact
+   - 🐱‍👤discord `@enchantedaura`
    - 🤸‍♂️open a github issue
    - 🐦 Tell your local pigeon to bring me thy letter
-1. ## Knowledge:
+## Knowledge:
    * [ ] JavaScript
    * [ ] C/C++
    * [ ] Python
    * [ ] SQL
    * [ ] social skills
    * [x] how to use notepad
-1. ## Currently working on 
+## Currently working on 
    + other private projects maybe, maybe not
