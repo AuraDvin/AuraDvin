@@ -17,3 +17,8 @@
    * [x] how to use notepad
 ## Currently working on 
    + other private projects maybe, maybe not
+
+### How to exit Vim (without saving)
+   + Press escape
+   + type in `:q!`
+   + Press enter!
