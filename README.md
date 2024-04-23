@@ -22,3 +22,7 @@
    + Press escape
    + type in `:q!`
    + Press enter!
+### How to exit Vim (with saving) 
+   + Press escape
+   + Type in `:wq`
+   + Press enter!
