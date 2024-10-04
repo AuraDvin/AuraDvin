@@ -1,7 +1,7 @@
 # About me
    - 👋 Hi, I’m `@AuraDvin`, also go by Aura
    - 🤓 University student
-   - 🗝 age: 19
+   - 🗝 age: 20
    - 👀 I’m interested in being a "*game dev*"
    - ⌚ Learning time managment
 ## Contact
