@@ -1,5 +1,5 @@
 # About me
-   - 👋 Hi, I’m `@AuraDvin`, also go by Aura
+   - 👋 Hi, I’m `@AuraDvin`, also go by `Aura`
    - 🤓 University student
    - 🗝 age: 20
    - 👀 I’m interested in being a "*game dev*"
@@ -17,7 +17,7 @@
    * [x] how to use notepad
 ## Currently working on 
    + other private projects maybe, maybe not
-
+---
 ### How to exit Vim (without saving)
    + Press escape
    + type in `:q!`
